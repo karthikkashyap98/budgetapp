@@ -87,7 +87,7 @@ h1, h6 {
 	font-size: 13px;
 }
 
-.section-expenses  li:nth-child(even) .expense {
-	background-color: #F2F2F2
+.section-expenses li:nth-child(even) .expense {
+	background-color: #F2F2F2;
 
 } 
